@@ -177,7 +177,7 @@ document.getElementById("defaultOpen").click();
       if(username==username1 && password==password1)
       {
         alert("login succesfull");
-        window.location.assign("https://docs.google.com/document/d/1heEmvnd59OTPbyUTYzLbjPsgxy1C0yjHZTXIZse2IAs/edit");
+        window.location="L4r.html";
              
       }
       else
